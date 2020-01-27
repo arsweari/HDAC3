@@ -1,1 +1,1 @@
-HDAC3 is a transcription factor
+HDAC3 is a deacetylase transcription factor
