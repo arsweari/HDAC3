@@ -1,1 +1,1 @@
-HDAC3 is a deacetylase transcription factor
+HDAC3 is the deacetylase transcription factor chosen by group 5.
